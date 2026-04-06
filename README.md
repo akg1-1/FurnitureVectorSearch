@@ -33,6 +33,8 @@ pip install -r requirements.txt
 ```bash
 docker-compose up -d
 ```
+Проверка работы Qdrant
+http://localhost:6333/dashboard#/collections
 
 ---
 ## Пример работы
