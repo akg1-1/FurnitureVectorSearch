@@ -1,0 +1,6 @@
+__pycache__
+cache
+.env
+*.log
+.vscodez
+*.log
